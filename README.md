@@ -102,7 +102,7 @@ Exploring the potential of AI and Machine Learning in modern technology, with pa
   </a>
   <a href="mailto:goshawksec@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>GoshawkSec
+  </a>
 </p>
 
 ---

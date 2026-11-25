@@ -1,117 +1,115 @@
-Hi there, I'm Dyson Musonda
+# Hi there, I'm Dyson Musonda 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Computer+Network+Engineer;Cybersecurity+Enthusiast;Penetration+Testing+Learner;Exploring+AI+%26+Intelligent+Security" alt="Typing SVG" />
+</p>
 
-About Me
+<p align="center">
+  <i>Precision. Security. Intelligence.</i>
+</p>
 
-I am an aspiring Computer Network Engineer and Penetration Tester passionate about building secure, intelligent, and reliable systems.
-I enjoy exploring the intersection between Cybersecurity, Networking, and Artificial Intelligence while continuously improving my technical skills through hands-on projects and research.
+---
 
-I AM CURRENTLY FOCUSED ON:
+## 🧑‍💻 About Me
 
--Computer Networking
+I'm an aspiring **Computer Network Engineer and Penetration Tester** with a passion for building secure, intelligent, and reliable systems.
 
--Ethical Hacking & Penetration Testing
+My interests lie at the intersection of **Cybersecurity, Computer Networking, and Artificial Intelligence**. I enjoy exploring how technology works, understanding security vulnerabilities, and developing practical skills through hands-on labs, experimentation, and research.
 
--Linux & System Administration
+I'm particularly interested in understanding how systems communicate, how they can be compromised, and most importantly, how they can be secured.
 
--Artificial Intelligence & Machine Learning 
+## 🎯 Areas of Focus
 
--Cybersecurity Research
+- 🌐 Computer Networking & Network Engineering
+- 🔐 Ethical Hacking & Penetration Testing
+- 🐧 Linux & System Administration
+- 🤖 Artificial Intelligence & Machine Learning
+- 🛡️ Cybersecurity Research & Network Defense
+- ⚙️ Secure Systems & Infrastructure
 
--Secure Systems & Network Defense
+## 🛠️ Technical Skills & Technologies
 
-TECHNICAL SKILLS:
+**Networking & Infrastructure**
 
--Networking
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
--Network Configuration & Troubleshooting
+**Cybersecurity & Operating Systems**
 
--TCP/IP Fundamentals
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge)
 
--Routing & Switching
+**Programming & Development**
 
--Cisco Packet Tracer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
--Basic Network Security
+## 🤖 Artificial Intelligence
 
--Cybersecurity
+Exploring the potential of AI and Machine Learning in modern technology, with particular interest in:
 
--Penetration Testing Fundamentals
+- Machine Learning Fundamentals
+- AI Research & Exploration
+- AI-Assisted Security Analysis
+- Intelligent Threat Detection
+- AI-Driven Cybersecurity Solutions
 
--Vulnerability Assessment
+## 📚 Currently Learning
 
--Linux Security
+- Advanced Penetration Testing
+- Network Security Engineering
+- AI Applications in Cybersecurity
+- Cloud Computing & Virtualization
+- Malware Analysis & Threat Detection
+- Secure Infrastructure Design
 
--OSINT & Reconnaissance
+## 🚀 Goals & Aspirations
 
--Web Application Security Basics
+- Build practical cybersecurity and networking projects.
+- Contribute to meaningful open-source initiatives.
+- Develop advanced penetration testing capabilities.
+- Explore the relationship between AI and cybersecurity.
+- Publish technical research and well-documented projects.
+- Continuously improve through hands-on experimentation.
 
--Security Tools & Lab Environments
+## 📊 GitHub Analytics
 
-PROGRAMMING & TECHNOLOGIES
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GoshawkSec
+&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoshawkSec
+&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
--Python
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GoshawkSec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
--HTML & CSS
+## 🌐 Connect With Me
 
--JavaScript
+<p align="center">
+  <a href="https://github.com/GoshawkSec
+">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:goshawksec@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>GoshawkSec
+</p>
 
--Git & GitHub
+---
 
--MySQL
-
--Linux
-
-ARTIFICIAL INTELLIGENCE
-
--AI Fundamentals
-
--Machine Learning Concepts
-
--AI Research & Exploration
-
--AI-Powered Security Concepts
-
-CURRENTLY lEARNING 
-
--Advanced Penetration Testing
-
--Network Security Engineering
-
--AI for Cybersecurity
-
--Cloud & Virtualization Technologies
-
--Malware Analysis & Threat Detection
-
--Secure Infrastructure Design
-
-GOALS:
-
--Build real-world cybersecurity and networking projects
-
--Contribute to open-source projects
-
--Develop advanced penetration testing skills
-
--Publish technical research and project documentation
-
--Combine AI with cybersecurity solutions
-
-TOOLS & TECHNOLOGIES:
-
-Linux | Git | GitHub | Python | MySQL | Cisco Packet Tracer
-VMware | Kali Linux | Parrot OS | Networking | Cybersecurity | AI
-
-CONNECT WITH ME:
-
-Github: https//github.com/
-
-Email:goshawksec@protonmail.com
-
-MOTTO: Continuous learning and practical experience drive innovation and security.
-
-KestrelSec:
-Precision . Security . Intelligence
-
-
+<p align="center">
+  <b>KestrelSec</b><br/>
+  <i>Precision. Security. Intelligence.</i>
+  <br/><br/>
+  <i>"Continuous learning and practical experience drive innovation and security."</i>
+</p>

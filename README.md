@@ -83,9 +83,9 @@ Exploring the potential of AI and Machine Learning in modern technology, with pa
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GoshawkSec
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=GoshawkSec
 &show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoshawkSec
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GoshawkSec
 &layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
